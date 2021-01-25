@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="img/pointer.svg">
+    <title>Weather App</title>
+</head>
+<body>
+    
+    <header>
+        <div class="title">
+            <h1>Weather App</h1>
+            <p>Check Your Weather Location Online</p>
+        </div>
+        <div class="input">
+            <input type="text" class="inputValue" placeholder="Enter City Name">
+            <input type="submit" class="submit-btn" value="Submit">
+        </div>
+    </header>
+
+    <main>
+        <div class="display-weather">
+            <h1 class="name"></h1>
+            <p class="description"></p>
+            <p class="temperature"></p>
+            <p class="humidity"></p>
+        </div>
+
+        <div class="openWeather">
+            <div class="txt">
+                <a href="https://openweathermap.org/">Powered by</a>
+            </div>
+            <div class="logo">
+                <a href="https://openweathermap.org/"><img src="img/openweatherlogo.png" alt="OpenWeather Logo"></a>
+            </div>
+        </div>
+    </main>
+
+    <script src="main.js"></script>
+</body>
+</html>
