@@ -1,12 +1,11 @@
 # weatherapp.github.io
-A Weather App using OpenWeatherMap API
+A Weather App using <strong>OpenWeatherMap API<strong> <br>
 
-Made with:
--HTML
--CSS
--Vanilla JavaScript
--OpenWeatherMap API
+<strong>Made with:<strong> <br>
+-HTML <br>
+-CSS <br>
+-Vanilla JavaScript <br>
+-OpenWeatherMap API <br>
 
-I learned:
--How to connect/fetch and get data from the API
--New JavaScript skill
+<strong>I learned:<strong>
+-How to connect/fetch and get data from the API <br>
