@@ -1,5 +1,5 @@
 # Weather App
-A Weather App using <strong>OpenWeatherMap API<strong> <br>
+A Weather App using <a href="https://openweathermap.org/">OpenWeatherMap API</a> <br>
 
 # Made with
 - HTML <br>
